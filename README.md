@@ -1,0 +1,1 @@
+# Monitoring-acceleration-using-ADXL335-Arduino-NodeMCU-ThingSpeak
